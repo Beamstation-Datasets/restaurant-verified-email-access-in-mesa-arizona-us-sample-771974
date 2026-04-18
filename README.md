@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Mesa, Arizona, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `771974` |
 | Location | Mesa |
 | Category | Restaurants |
-| Full dataset size | 337 records |
-| Free sample size | 33 records (9.79%) |
-| Last export | 2026-04-07T23:18:42.166805+00:00 |
+| Full dataset size | 315 records |
+| Free sample size | 31 records (9.84%) |
+| Last export | 2026-04-15T05:03:07.222382+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-mesa-arizona-us-sample-771974/releases/download/sample-latest/beamstation_771974_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
