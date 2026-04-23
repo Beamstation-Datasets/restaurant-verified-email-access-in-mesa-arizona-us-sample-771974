@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b952138d-00dc-4c77-98bf-376594c0321d",
+  "export_job_id": "9ab938fd-4081-4ff0-96af-36d79a045eb9",
   "id_short": 771974,
-  "published_at": "2026-04-18T19:52:14Z",
+  "published_at": "2026-04-23T07:09:54Z",
   "repo_name": "restaurant-verified-email-access-in-mesa-arizona-us-sample-771974",
   "sample_asset_name": "beamstation_771974_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/771974/beamstation_771974_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "93a29de4cbfc268073ab248b509f311682739cb9cb64a912258c0c84954804ad",
-  "sample_size_bytes": 143817,
-  "total_records": 315
+  "sample_records": 28,
+  "sample_sha256": "050995e55d79b1a4504e13a0ed782e1c4c260be4f12c48c056dc91ca111e2a0f",
+  "sample_size_bytes": 133725,
+  "total_records": 280
 }
